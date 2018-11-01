@@ -1,10 +1,6 @@
 
 name = Peter
-
-
 size = 100
-
-
 email = peter@dir.bg
 
 na maikati = 100
