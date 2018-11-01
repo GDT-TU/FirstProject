@@ -23,7 +23,15 @@ static void name(){
 	int a = 5;
 	int b = 5;
 	return a+b;
+<<<<<<< HEAD
 
 static int haha(){
 	return (""hello");	
 }
+=======
+}
+
+static void kur(){
+	printf("KURA MI QNKOO")
+}
+>>>>>>> 2048618bce901cff618b09ff741cc864bd4b2093
