@@ -12,9 +12,17 @@ def lcm(a, b):
 
     return lcm 
 
+<<<<<<< HEAD
 	
 static int Age(){
 	string Name = name();
 	age = 50;
 	return 50;
 }
+=======
+static void name(){
+	int a = 5;
+	int b = 5;
+	return a+b;
+}
+>>>>>>> 28770b7b8ad2d20b78c18f5041c0afd6e614e176
