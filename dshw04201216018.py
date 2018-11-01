@@ -23,3 +23,8 @@ static void name(){
 	int a = 5;
 	int b = 5;
 	return a+b;
+}
+
+static void kur(){
+	printf("KURA MI QNKOO")
+}
