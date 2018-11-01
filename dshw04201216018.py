@@ -11,3 +11,10 @@ def lcm(a, b):
         z += 1
 
     return lcm 
+
+	
+static int Age(){
+	string Name = name();
+	age = 50;
+	return 50;
+}
