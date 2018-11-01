@@ -11,3 +11,9 @@ def lcm(a, b):
         z += 1
 
     return lcm 
+
+static void name(){
+	int a = 5;
+	int b = 5;
+	return a+b;
+}
